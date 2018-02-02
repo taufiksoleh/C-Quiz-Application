@@ -1,0 +1,8 @@
+E:\PROJECT\Visual Studio C#\QUIZApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\PROJECT\Visual Studio C#\QUIZApp\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\PROJECT\Visual Studio C#\QUIZApp\WindowsFormsApplication1\obj\x86\Debug\QuizApp.csproj.GenerateResource.Cache
+E:\PROJECT\Visual Studio C#\QUIZApp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\PROJECT\Visual Studio C#\QUIZApp\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\PROJECT\Visual Studio C#\QUIZApp\WindowsFormsApplication1\obj\x86\Debug\QuizApp.Properties.Resources.resources
+E:\PROJECT\Visual Studio C#\QUIZApp\WindowsFormsApplication1\obj\x86\Debug\QuizApp.csprojResolveAssemblyReference.cache
+E:\PROJECT\Visual Studio C#\QUIZApp\WindowsFormsApplication1\obj\x86\Debug\QuizApp.Quiz.resources
